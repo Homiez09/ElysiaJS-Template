@@ -25,3 +25,6 @@ Addtionally, you can run the following command to create a migration:
 ```bash
 bun prisma migrate dev --name init
 ```
+```bash
+bun prisma db seed
+```
